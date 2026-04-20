@@ -17,7 +17,7 @@
 - ✅ 行业板块列表
 
 level2数据：
-- ✅ 个股DDX及时数据
+- ✅ 个股DDX历史数据
 - ✅ 个股level2数据
 
 			l2_vol_rise_speed	成交量涨速	    
